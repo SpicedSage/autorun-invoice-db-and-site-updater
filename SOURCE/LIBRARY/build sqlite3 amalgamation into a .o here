@@ -1,0 +1,4 @@
+11/11/2024 removed:
+  sqlite3.c
+  sqlite3.h
+  sqlite3.o
